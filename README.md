@@ -34,5 +34,4 @@ Lastly the dataset is split into 80% training and 20% testing.
 
 ## Machine Learning Models
 The script _KNN_Bayes_Model_ starts training and eventually evaluates the models using a confusion matrix and area under the curve charts.
-
 By running the script _RF_NB_Model_, this trains a random forest and naive bayes model and generates learning curves to determine whether the models are over-fitting or underfitting. Once training is completed the models are evaluated using accuracy. The models are then compared using a Wilcoxon Signed Rank test to find if there is a significant difference between the two models.
