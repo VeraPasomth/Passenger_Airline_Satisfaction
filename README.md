@@ -4,6 +4,7 @@ dependent variable, which is in this case the satisfaction of the passengers. It
 to know what customers value the most, in order to improve the customer experience and increase the 
 customer flow.
 
+# Software Description
 The script _Data_Exploration_ can be run to preprocess and analyze the [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). The preprocessing steps applied are as follows:
 
 **1. Binary Encode Categorical Values and Label Encode Nominal Values:**
