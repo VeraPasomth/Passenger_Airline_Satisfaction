@@ -5,7 +5,7 @@ to know what customers value the most, in order to improve the customer experien
 customer flow.
 
 # Software Description
-The script _Data_Exploration_ can be run to preprocess and analyze the [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). The preprocessing steps applied are as follows:
+The script _Data_Exploration_ can be run to preprocess and analyze the [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). This generates a csv file contianing the cleaned data. The preprocessing steps applied are as follows:
 
 **1. Binary Encode Categorical Values and Label Encode Nominal Values:**
 Encoding the categorial variables was necessary because all the values need to be in numerical 
@@ -32,3 +32,5 @@ are quite unlikely and could be there by error.
 
 **7. Split dataset in training and testing dataset**
 Lastly the dataset is split into 80% training and 20% testing. 
+
+The script KNN_Bayes starts training and eventually evaluates the models using a confusion matrix and area under the curve charts.
