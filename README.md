@@ -33,4 +33,4 @@ are quite unlikely and could be there by error.
 **7. Split dataset in training and testing dataset**
 Lastly the dataset is split into 80% training and 20% testing. 
 
-The script KNN_Bayes starts training and eventually evaluates the models using a confusion matrix and area under the curve charts.
+The script _KNN_Bayes_ starts training and eventually evaluates the models using a confusion matrix and area under the curve charts.
